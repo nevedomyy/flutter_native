@@ -6,7 +6,7 @@ Use the CocoaPods dependency manager and installed Flutter SDK. In this case, th
 
 https://docs.flutter.dev/add-to-app/ios/project-setup
 
-<img src="v1.gif" height="320"/>  
+<img src="v1.gif" height="320" width="160"/>  
 
 # Hosting native iOS views in Flutter app
 ### flutter_ios folder
@@ -15,4 +15,4 @@ Platform views allow you to embed native views in a Flutter app, so you can appl
 
 https://docs.flutter.dev/platform-integration/ios/platform-views
 
-<img src="v2.gif" height="320"/>  
+<img src="v2.gif" height="320" width="160"/>  
